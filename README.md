@@ -1,4 +1,4 @@
-# `(import (letloop template))`
+# `(import (letloop http))`
 
 > Simple procedure to interoperate
 
