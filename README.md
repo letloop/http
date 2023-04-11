@@ -1,10 +1,15 @@
 # `(import (letloop template))`
 
-Abstract description...
+> Simple procedure to interoperate
 
-## `(procedure one two)` `type?` `type?` → `type?`
+## `http-error?`
 
-Description...
+## `http-error-payload`
 
+## `http-request-read`
 
+## `http-request-write`
 
+## `http-response-read`
+
+## `http-response-write`
